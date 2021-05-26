@@ -1,2 +1,2 @@
 # txtify
-Generate your words in a new way.
+A new way to generate words.
